@@ -1,0 +1,69 @@
+---
+title: Camp Siteleaf
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+url: http://camp.siteleaf.net
+email: your-email@domain.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+people:
+- name: Fox
+  image: "/uploads/fox.jpg"
+  position: Scoutmaster
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: stack-overflow
+    url: 
+- name: Raccoon
+  image: "/uploads/raccoon.jpg"
+  position: Unit Leader
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: linkedin
+    url: 
+- name: Owl
+  image: "/uploads/owl.jpg"
+  position: Arts & Crafts
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
+  - title: google-plus
+    url: 
+social:
+- title: twitter
+  url: http://twitter.com/jekyllrb
+- title: facebook
+  url: 
+- title: stack-overflow
+  url: http://stackoverflow.com/questions/tagged/jekyll
+- title: bitbucket
+  url: http://bitbucket.org/jekyll
+- title: github
+  url: http://github.com/jekyll
+address:
+- line: 3481 Melrose Place
+- line: Beverly Hills, CA 90210
+markdown: kramdown
+permalink: pretty
