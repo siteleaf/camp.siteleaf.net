@@ -1,9 +1,9 @@
 ---
 title: Home
 position: 0
-lead-in: Come for the s’mores stay for the camp!
+lead-in: Welcome to camp!
 heading: Camp Siteleaf
-background_image: "/uploads/trees-bg.jpg"
+background_image: "/uploads/camp-bg.jpg"
 layout: index
 ---
 
