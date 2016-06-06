@@ -22,7 +22,7 @@
                         <a class="page-scroll" href="#services">Services</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Attractions</a>
+                        <a class="page-scroll" href="#portfolio">Activites</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#about">About</a>
@@ -41,7 +41,7 @@
     </nav>
 
     <!-- Header -->
-    <header>
+    <header{% if page.background_image %} style="background-image: url('{{ page.background_image }}')"{% endif %}>
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">{{ page.lead-in }}</div>
