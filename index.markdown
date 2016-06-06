@@ -7,4 +7,4 @@ background_image: "/uploads/camp-bg.jpg"
 layout: index
 ---
 
-Welcome to camp, it's almost here!
+Welcome to camp, it’s almost here!
