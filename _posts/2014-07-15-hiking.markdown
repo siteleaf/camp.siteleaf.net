@@ -1,17 +1,20 @@
 ---
-title: Nature
-date: 2014-07-18 00:00:00 Z
+title: Hiking
+date: 2014-07-15 00:00:00 Z
 categories:
-- Web Development
-subtitle: Hang out with this furry guy
-layout: default
-modal-id: 1
-image: "/uploads/bear.jpg"
+- activities
+tags:
+- excercise
+- exploring
+subtitle: Like walking, but outside
+modal-id: 6
+image: "/uploads/hiker-1.jpg"
 alt: image-alt
-project-date: April 2014
+project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
   diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+layout: default
 ---
 
