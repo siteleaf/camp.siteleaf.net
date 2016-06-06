@@ -1,6 +1,8 @@
 ---
 title: FAQ
 date: 2016-06-06 08:44:00 Z
+Hours: 9am - 6pm
+Location: 68 3rd St
 ---
 
 # An exhibit of Markdown
