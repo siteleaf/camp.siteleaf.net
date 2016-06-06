@@ -1,13 +1,13 @@
 ---
-title: Lakes
-date: 2014-07-16 00:00:00 Z
+title: Relax
+date: 2016-06-03 00:00:00 Z
 categories:
 - activities
 tags:
-- water
-subtitle: Soak it up
-modal-id: 3
-image: "/uploads/lake.jpg"
+- nature
+subtitle: Look at some trees
+modal-id: 4
+image: "/uploads/lake-2.jpg"
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap

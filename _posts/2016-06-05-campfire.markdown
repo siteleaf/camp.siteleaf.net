@@ -1,13 +1,13 @@
 ---
-title: Nature
-date: 2014-07-18 00:00:00 Z
+title: Campfire
+date: 2016-06-05 00:00:00 Z
 categories:
 - activities
 tags:
-- nature
-subtitle: Hang out with this furry guy
-modal-id: 1
-image: "/uploads/bear.jpg"
+- outdoors
+subtitle: We should do this s’more
+modal-id: 5
+image: "/uploads/campfire.jpg"
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap

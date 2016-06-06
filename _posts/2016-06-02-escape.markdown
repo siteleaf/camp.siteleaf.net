@@ -1,14 +1,13 @@
 ---
-title: Hiking
-date: 2014-07-15 00:00:00 Z
+title: Escape
+date: 2016-06-02 00:00:00 Z
 categories:
 - activities
 tags:
-- excercise
-- exploring
-subtitle: Like walking, but outside
-modal-id: 6
-image: "/uploads/hiker-1.jpg"
+- accomodations
+subtitle: Sleep in this cozy shack
+modal-id: 2
+image: "/uploads/cabin.jpg"
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap

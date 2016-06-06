@@ -1,13 +1,13 @@
 ---
-title: Escape
-date: 2014-07-17 00:00:00 Z
+title: Nature
+date: 2016-06-01 00:00:00 Z
 categories:
 - activities
 tags:
-- accomodations
-subtitle: Sleep in this cozy shack
-modal-id: 2
-image: "/uploads/cabin.jpg"
+- nature
+subtitle: Hang out with this furry guy
+modal-id: 1
+image: "/uploads/bear.jpg"
 alt: image-alt
 project-date: 2014-04-01 00:00:00 Z
 client: Start Bootstrap
