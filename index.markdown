@@ -2,6 +2,7 @@
 title: Home
 lead-in: Come for the s’mores stay for the camp!
 heading: Camp Siteleaf
+background_image: "/uploads/trees.jpg"
 layout: index
 ---
 
