@@ -1,7 +1,7 @@
 ---
 title: Staff
 date: 2016-06-05 13:54:00 Z
-position: 3
+position: 2
 scoutmasters:
 - name: Fox
   image: "/uploads/fox.jpg"
