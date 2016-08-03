@@ -2,9 +2,6 @@
 title: Camp Siteleaf
 timezone: UTC
 collections:
-  events:
-    title: Events
-    output: true
   posts:
     title: Posts
     output: true
