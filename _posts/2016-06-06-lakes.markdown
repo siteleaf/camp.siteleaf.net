@@ -4,7 +4,6 @@ date: 2016-06-06 00:00:00 Z
 categories:
 - activities
 tags:
-- water
 - outdoors
 subtitle: Soak it up
 modal-id: 3
