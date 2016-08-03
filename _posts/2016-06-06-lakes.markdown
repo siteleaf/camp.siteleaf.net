@@ -5,6 +5,7 @@ categories:
 - activities
 tags:
 - water
+- outdoors
 subtitle: Soak it up
 modal-id: 3
 image: "/uploads/lake.jpg"
